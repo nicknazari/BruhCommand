@@ -1,0 +1,10 @@
+name: BruhCommand
+main: io.github.nicknazari.BruhCommand.BruhCommand
+version: 1
+author: airpod_salesman
+commands:
+  bruh:
+    description:
+    usage:
+    permission:
+    permission-message:
